@@ -9,6 +9,6 @@
     "prompt-sync": "^4.2.0",
     "random-useragent": "^0.5.0",
     "readline-sync": "^1.4.10",
-    "web3js-wallet": "^1.0.17"
+    "web3js-wallet": "^1.0.19"
   }
 }
